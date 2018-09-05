@@ -1,4 +1,4 @@
-# introduction to machine learning assignment
+# introduction to machine learning assignments
 
 서울시립대학교 18학년 2학기 기계학습개론 과목 과제, 공부 자료 등을 정리한 레포지토리입니다.
 
