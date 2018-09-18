@@ -11,3 +11,11 @@
 * macOS High Sierra
 * Python 3.6
 * numpy, jupyter
+
+## class
+
+수업 중에 배운 이론 구현
+
+* PCA
+  * [PCA 2d to 1d](./class/PCA-2d-to-1d.ipynb)
+  * [PCA 3d to 2d](./class/PCA-3d-to-2d.ipynb)
