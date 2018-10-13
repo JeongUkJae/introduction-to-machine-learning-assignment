@@ -5,6 +5,7 @@
 ## _
 
 * [homework1](./homework1/homework1.ipynb)
+* [homework2](./homework2/PCA-reconstruction.ipynb)
 
 ## env
 
